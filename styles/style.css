@@ -27,3 +27,8 @@ button {
     padding: 0.5rem 1.5rem;
     cursor: pointer;
   }
+
+#Class {
+    color:rgb(126, 62, 9);
+    background-color: teal;
+}
